@@ -1,0 +1,132 @@
+{
+    "titulo_relatorio": "LISTA DE FILMES:",
+    "subtitulo_relatorio": "Sinopse & Avaliação",
+    "nome_autor": "Gabriella S. Batista",
+    "generos": [
+        {
+            "nome_genero": "Terror",
+            "filmes": [
+                {
+                    "titulo": "Rosemary's Baby",
+                    "ano": "1968",
+                    "diretor": "Roman Polanski",
+                    "duracao": "2h17m",
+                    "pais_origem": "EUA / Reino Unido",
+                    "avaliacao_rt": "97%",
+                    "sinopse": "Uma jovem grávida começa a suspeitar que seus vizinhos pertencem a um culto envolvido com seu filho."
+                }
+            ]
+        },
+        {
+            "nome_genero": "Fantasia",
+            "filmes": [
+                {
+                    "titulo": "Ponte para Terabítia",
+                    "ano": "2007",
+                    "diretor": "Gábor Csupó",
+                    "duracao": "1h36m",
+                    "pais_origem": "EUA",
+                    "avaliacao_rt": "85%",
+                    "sinopse": "Dois amigos criam um reino imaginário chamado Terabítia até que um acontecimento inesperado muda tudo."
+                },
+                {
+                    "titulo": "Peter Pan",
+                    "ano": "2003",
+                    "diretor": "P. J. Hogan",
+                    "duracao": "1h53m",
+                    "pais_origem": "EUA / Reino Unido / Austrália",
+                    "avaliacao_rt": "77%",
+                    "sinopse": "Wendy Darling e seus irmãos conhecem Peter Pan, o garoto que nunca cresce, e são levados para a Terra do Nunca, onde enfrentam piratas, fadas e o temido Capitão Gancho enquanto vivem aventuras mágicas."
+                }
+            ]
+        },
+        {
+            "nome_genero": "Romance",
+            "filmes": [
+                {
+                    "titulo": "Diário de uma Paixão",
+                    "ano": "2004",
+                    "diretor": "Nick Cassavetes",
+                    "duracao": "2h04m",
+                    "pais_origem": "EUA",
+                    "avaliacao_rt": "53%",
+                    "sinopse": "Um casal de jovens apaixonados luta contra difernças sociais enquanto sua história é relembrada anos depois."
+                },
+                {
+                    "titulo": "Esposa de Mentirinha",
+                    "ano": "2011",
+                    "diretor": "Dennis Dugan",
+                    "duracao": "1h57m",
+                    "pais_origem": "EUA",
+                    "avaliacao_rt": "45%",
+                    "sinopse": "Um cirugião inventa um casamento falso para conquistar uma mulher, mas a mentira sai de controle."
+                }
+            ]
+        },
+        {
+            "nome_genero": "Ficção Científica",
+            "filmes": [
+                {
+                    "titulo": "Star Wars: Episódio III - A Vingança dos Sith",
+                    "ano": "2005",
+                    "diretor": "George Lucas",
+                    "duracao": "2h20m",
+                    "pais_origem": "EUA",
+                    "avaliacao_rt": "79%",
+                    "sinopse": "Anakin Skywalker cai para o lado sombrio e a República chega ao fim com a ascensão do Império."
+                },
+                {
+                    "titulo": "Star Trek",
+                    "ano": "2009",
+                    "diretor": "J. J. Abrams",
+                    "duracao": "2h07m",
+                    "pais_origem": "EUA",
+                    "avaliacao_rt": "94%",
+                    "sinopse": "A nova tripulação da Enterprise enfrenta um inimigo romulano que ameaça o futuro da Federação."
+                }
+            ]
+        },
+        {
+            "nome_genero": "Distopia",
+            "filmes": [
+                {
+                    "titulo": "Jogos Vorazes",
+                    "ano": "2012",
+                    "diretor": "Gary Ross",
+                    "duracao": "2h22m",
+                    "pais_origem": "EUA",
+                    "avaliacao_rt": "84%",
+                    "sinopse": "Katniss Everdeen se oferece para participar dos Jogos Vorazes, onde jovens lutam até a morte pelo entretenimento da Capital."
+                }
+            ]
+        },
+        {
+            "nome_genero": "Aventura",
+            "filmes": [
+                {
+                    "titulo": "Percy Jackson e o Ladrão de Raios",
+                    "ano": "2010",
+                    "diretor": "Chris Columbia",
+                    "duracao": "1h59m",
+                    "pais_origem": "EUA",
+                    "avaliacao_rt": "49%",
+                    "sinopse": "Após descobrir que é filho de um deus grego, Percy embarca em uma missão para impedir uma guerra mitológica."
+                }
+            ]
+        },
+        {
+            "nome_genero": "Drama",
+            "filmes": [
+                {
+                    "titulo": "O Lobo de Wall Street",
+                    "ano": "2013",
+                    "diretor": "Martin Scorsese",
+                    "duracao": "3h",
+                    "pais_origem": "EUA",
+                    "avaliacao_rt": "79%",
+                    "sinopse": "A carreira de Jordan Belfort, corretor que se enriquece com esquemas ilegais enquanto mergulha em excessos."
+                }
+            ]
+        }
+    ]
+}
