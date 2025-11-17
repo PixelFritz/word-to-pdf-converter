@@ -58,13 +58,9 @@ Ano: {{ano}}
 ## Estrutura do projeto
 ```
 WORD-TO-PDF/
-├── credentials/
-│   └── pdfservices-api-credentials.json
 ├── data/
 │   └── filmes.json
 ├── output/
-│   └── doc-preenchido.docx
-│   └── resultado.pdf
 ├── src/
 │   └── fillTemplate.js
 │   └── generatePdf.js
